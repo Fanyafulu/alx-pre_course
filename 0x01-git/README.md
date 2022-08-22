@@ -1,1 +1,1 @@
-Diectory README
+committing my Diectory README
